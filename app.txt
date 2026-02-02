@@ -1,3 +1,2 @@
-Login page updated: teammate hotfix + my UI changes
-
 Hot fix has been added and notes has been updated !!
+Making changes as conflict raised.
